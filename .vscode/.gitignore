@@ -10,3 +10,4 @@ __pycache__/
 media/
 staticfiles/
 venv/
+config.ini
